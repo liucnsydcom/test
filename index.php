@@ -5,4 +5,5 @@ foreach ($variable as $key => $value) {
 }
 
 
+echo $variable;
 ?>
